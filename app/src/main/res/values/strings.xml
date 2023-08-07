@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name" translatable="false">실시간 번역</string>
+    <string name="download" translatable="false">다운로드 중입니다.</string>
+    <string name="korean" translatable="false">한국어</string>
+    <string name="english" translatable="false">영어</string>
+    <string name="chinese" translatable="false">중국어</string>
+    <string name="japanese" translatable="false">일본어</string>
+    <string name="vietnamese" translatable="false">베트남어</string>
+</resources>
